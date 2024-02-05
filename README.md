@@ -1,5 +1,8 @@
 ### Hi there 👋
-<img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/>
+<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/>
+![GHstats](https://github-readme-stats.vercel.app/api?username=Guy0851&show_icons=true)
+
+
 <!--
 **Guy0851/Guy0851** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
