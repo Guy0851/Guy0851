@@ -12,7 +12,7 @@ My development stack includes, Javascript, Node.js, React, Express.js and PHP. ð
 <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
 <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/>
-<img align="left" width="30px" src="https://bs-uploads.toptal.io/blackfish-uploads/components/skill_page/content/logo_file/logo/195562/express_js-161052138fa79136c0474521906b55e2.png"/>
+<img align="left" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzGI2hNdVe-s2g0YgggTFYI7qW6G9j_jdBlonmxChX4w&s"/>
 <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>  
 
 
