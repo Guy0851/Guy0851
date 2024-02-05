@@ -1,6 +1,6 @@
 ### Hi there 👋
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/>
-![GHstats](https://github-readme-stats.vercel.app/api?username=Guy0851&show_icons=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Guy0851&show_icons=true"/>
 
 
 <!--
