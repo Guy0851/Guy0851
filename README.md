@@ -4,9 +4,13 @@ Currently, I'm on the lookout for an apprenticeship in a professional contract t
 
 I'm a student at Ada tech school, a feminist and inclusive web development school, for just under a year. 🌈♀️💪🏽
 
-My development stack includes, Javascript, Node.js, React, Node.js, Express.js and PHP. 💻💻
+My development stack includes, Javascript, Node.js, React, Express.js and PHP. 💻💻
 
+<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/>
+<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/>
+<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
 
 I believe in diversity and equality; that's why I chose a feminist school. 🌈🌍
 
