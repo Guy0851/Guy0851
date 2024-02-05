@@ -26,4 +26,4 @@ At 22, I'm excited to kickstart my career in web development, tackle challenges,
 
 If you want someone passionate and enthusiastic, I'm your man! 🔥🔥🔥
 
-<img src="https://github-readme-stats.vercel.app/api?username=Guy0851&show_icons=false&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Guy0851&show_icons=true&theme=radical"/>
