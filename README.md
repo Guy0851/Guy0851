@@ -1,5 +1,5 @@
 ### Hi there 👋
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/>]
+[<img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/>]
 <!--
 **Guy0851/Guy0851** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
