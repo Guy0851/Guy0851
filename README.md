@@ -1,6 +1,6 @@
 Hello there !!! 👋🌞
 
-I'm Guillaume, a 22-year-old junior fullstack web developer. 🤓
+I'm Guillaume, a 23-year-old junior fullstack web developer. 🤓
 
 Currently, I'm on the lookout for an apprenticeship in a professional contract to enhance my experience in development. 📚
 
